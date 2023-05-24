@@ -1,0 +1,13 @@
+{
+    "name": "derpixler/acf-config-directory-manager",
+    "description": "The ACF Config Directory Manager is a powerful plugin that allows you to easily customize and manage the path of your Advanced Custom Fields (ACF) configurations. Take control of your ACF configuration files by defining a custom directory for storing and organizing them, enhancing your development workflow",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "web dev media UG",
+            "homepage": "https://web-dev-media.de",
+            "email": "info@web-dev-media.de",
+            "role": "developer, author"
+        }
+    ]
+}

@@ -11,8 +11,8 @@
  * Text Domain: acf-config-directory-manager
 **/
 
-add_filter('acf/settings/save_json', 'acf_config_path');
-add_filter('acf/settings/load_json', 'acf_config_path');
+add_filter('acf/settings/save_json', 'wdm_acf_config_path');
+add_filter('acf/settings/load_json', 'wdm_acf_config_path');
 
 /**
  * Returns the path for ACF configurations.
